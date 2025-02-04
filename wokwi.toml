@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/PushbuttonOneshot.uf2"
+elf = "build/PushbuttonOneshot.elf"
